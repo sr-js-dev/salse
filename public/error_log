@@ -1,0 +1,1 @@
+[10-May-2019 02:17:14 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/salesctw/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 42
